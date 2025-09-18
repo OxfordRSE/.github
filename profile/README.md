@@ -1,10 +1,10 @@
 ## ✨ About us
 
-We work in close collaboration with researchers at the University of Oxford and beyond to develop high-quality, sustainable research software solutions.
+The Oxford Research Software Engineering Group at the University of Oxford collaborates with researchers to develop high-quality software solutions tailored to the specific needs of their research projects and provides training to equip researchers with essential software engineering skills.
 
 Our team offers expertise across a broad range of research support areas, including:
 
-- 💻 Software development
+- 💻 Research software development
 - ⚙️ Setting up development infrastructure (version control, testing frameworks, continuous integration)
 - 📐 Advising on best practices in research software engineering
 - 🔎 Conducting in-depth code reviews
