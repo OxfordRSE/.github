@@ -1,0 +1,1 @@
+The Oxford Research Software Engineering Group (rse.ox.ac.uk) at the University of Oxford collaborates with researchers to develop high-quality software solutions tailored to the specific needs of their research projects and provides training to equip researchers with essential software engineering skills.
