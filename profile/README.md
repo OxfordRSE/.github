@@ -10,7 +10,7 @@ Our team offers expertise across a broad range of research support areas, includ
 - 🔎 Conducting in-depth code reviews
 - 🎓 Delivering tailored training aligned with your research goals
 
-Explore our [portfolio](https://www.rse.ox.ac.uk/projects) to discover the projects we’ve completed or are currently working on. You can also [meet our team 👥](https://www.rse.ox.ac.uk/people), learn about their expertise 🧠, and see the diverse experience they can bring to your project.
+Explore our [portfolio](https://www.rse.ox.ac.uk/projects) to discover the projects we’ve completed or are currently working on. You can also [meet our team](https://www.rse.ox.ac.uk/people), learn about their expertise 🧠, and see the diverse experience they can bring to your project.
 
 ## 🤝 Collaboration with OxRSE
 
